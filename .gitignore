@@ -1,0 +1,9 @@
+*.grbjob
+*.grb
+*.svg
+*.csv
+Pos/
+Gerber/
+report.txt
+*.pdf
+6502Microcontroller-backups/
