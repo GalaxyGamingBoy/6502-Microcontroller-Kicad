@@ -6946,16 +6946,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 44.45) (xy 33.02 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8dcfbc40-4bec-4032-91d5-730f4cbb6958")
-	)
-	(wire
-		(pts
 			(xy 152.4 45.72) (xy 154.94 45.72)
 		)
 		(stroke
@@ -10608,6 +10598,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 33.02 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4885280a-fc30-488d-bd91-a1fe70057304")
+		(property "Reference" "#PWR02"
+			(at 36.83 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 30.226 43.688 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 33.02 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d448db9-c8e1-4a1e-a24a-b069f4a3c2fd")
+		)
+		(instances
+			(project "6502Microcontroller"
+				(path "/18e16338-affd-4f01-bda8-cdea79e76b9f"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 261.62 148.59 270)
 		(unit 1)
@@ -11417,7 +11473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical_SMD"
+		(property "Footprint" "LCSCLib:HDR-TH_4P-P2.54-V-F-R2-C2-S2.54"
 			(at 64.77 158.75 0)
 			(effects
 				(font
@@ -14791,73 +14847,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 31.75 44.45 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e15fa416-ad77-4aad-b55d-a54407e97f6e")
-		(property "Reference" "#PWR02"
-			(at 35.56 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 27.94 44.4499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 31.75 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b5d75df0-6b61-46d7-b0d2-823bd512edcc")
-		)
-		(instances
-			(project ""
-				(path "/18e16338-affd-4f01-bda8-cdea79e76b9f"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 101.6 130.81 0)
 		(unit 1)
@@ -15068,7 +15057,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f31b412a-cf3a-454d-af58-5ec916aa2162")
 		(property "Reference" "#PWR08"
 			(at 36.83 39.37 0)
@@ -15080,7 +15068,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 29.21 39.3699 90)
+			(at 30.226 38.608 90)
 			(effects
 				(font
 					(size 1.27 1.27)

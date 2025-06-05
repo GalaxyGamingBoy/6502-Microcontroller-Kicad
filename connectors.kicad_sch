@@ -5453,7 +5453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "LCSCLib:HDR-TH_2P-P2.54-V-F-1"
 			(at 26.67 148.59 0)
 			(effects
 				(font
@@ -5588,7 +5588,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical"
+		(property "Footprint" "LCSCLib:HDR-TH_16P-P2.54-V-F-4"
 			(at 85.09 102.87 0)
 			(effects
 				(font
@@ -5832,7 +5832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "LCSCLib:HDR-TH_2P-P2.54-V-F-1"
 			(at 26.67 158.75 0)
 			(effects
 				(font
@@ -6034,7 +6034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "LCSCLib:HDR-TH_2P-P2.54-V-F-1"
 			(at 26.67 138.43 0)
 			(effects
 				(font
@@ -6102,7 +6102,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(property "Footprint" "LCSCLib:HDR-TH_2P-P2.54-V-F-1"
 			(at 26.67 168.91 0)
 			(effects
 				(font
@@ -6170,7 +6170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical"
+		(property "Footprint" "LCSCLib:HDR-TH_16P-P2.54-V-F-4"
 			(at 36.83 102.87 0)
 			(effects
 				(font
@@ -6279,7 +6279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical"
+		(property "Footprint" "LCSCLib:HDR-TH_4P-P2.54-V-F-R2-C2-S2.54"
 			(at 118.11 81.28 0)
 			(effects
 				(font
@@ -6354,7 +6354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "LCSCLib:HDR-TH_8P-P2.54-V-F"
 			(at 77.47 19.05 0)
 			(effects
 				(font
@@ -6439,7 +6439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical"
+		(property "Footprint" "LCSCLib:HDR-TH_4P-P2.54-V-F-R2-C2-S2.54"
 			(at 73.66 81.28 0)
 			(effects
 				(font
@@ -6581,7 +6581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
+		(property "Footprint" "LCSCLib:HDR-TH_8P-P2.54-V-F"
 			(at 77.47 48.26 0)
 			(effects
 				(font

@@ -3,4 +3,5 @@
   (lib (name "Capture")(type "KiCad")(uri "/Users/marios/Documents/KiCad/ExternalParts/LIB_W65C22S6TPG-14/W65C22S6TPG-14/Capture.pretty")(options "")(descr ""))
   (lib (name "LCSCLib")(type "KiCad")(uri "${KIPRJMOD}/LCSCLib.pretty")(options "")(descr ""))
   (lib (name "6502Microcontroller")(type "KiCad")(uri "/Users/marios/Documents/KiCad/Projects/6502Microcontroller.pretty")(options "")(descr ""))
+  (lib (name "6502 GPMC")(type "KiCad")(uri "${KIPRJMOD}/6502 GPMC.pretty")(options "")(descr ""))
 )

@@ -6,4 +6,5 @@
   (lib (name "AS6C62256-55PCN")(type "KiCad")(uri "/Users/marios/Documents/KiCad/ExternalParts/LIB_AS6C62256-55PCN/AS6C62256-55PCN/KiCad/AS6C62256-55PCN.kicad_sym")(options "")(descr ""))
   (lib (name "W65C51N6TPG-14")(type "KiCad")(uri "/Users/marios/Documents/KiCad/ExternalParts/LIB_W65C51N6TPG-14/W65C51N6TPG-14/KiCad/W65C51N6TPG-14.kicad_sym")(options "")(descr ""))
   (lib (name "LCSCLib")(type "KiCad")(uri "${KIPRJMOD}/LCSCLib.kicad_sym")(options "")(descr ""))
+  (lib (name "6502 GPMC")(type "KiCad")(uri "${KIPRJMOD}/6502 GPMC.kicad_sym")(options "")(descr ""))
 )
